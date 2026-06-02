@@ -4,13 +4,12 @@ Implemented Microsoft Sentinel, Microsoft's cloud-native Security Information an
 ##Overview:
 Security teams require centralized visibility and automated response capabilities to effectively detect and respond to threats. In this lab, I onboarded Microsoft Sentinel to a Log Analytics Workspace, connected Azure Activity logs, configured analytics rules, and created a Logic App playbook to automate incident management. I then generated a security event and observed how Sentinel detected the activity, created an incident, and triggered an automated response workflow. This provided hands-on experience with the core components of a Security Operations Center (SOC) solution in Azure.
 
-##Objectives:
+##Objectives(Completed):
 - Task 1: On-board Microsoft Sentinel
 - Task 2: Connect Azure Activity to Sentinel
 - Task 3: Create a rule that uses the Azure Activity data connector.
 - Task 4: Create a playbook
 - Task 5: Create a custom alert and configure the playbook as an automated response.
-- Task 6: Invoke an incident and review the associated actions.
 
 ##Technologies Used:
 - Microsoft Azure
